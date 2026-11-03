@@ -1,0 +1,4 @@
+/gridsolve
+/tests/test_gridsolve
+/tests/test_gridsolve_san
+__pycache__/

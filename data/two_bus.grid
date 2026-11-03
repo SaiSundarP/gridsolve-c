@@ -1,0 +1,6 @@
+# Columns: id type Vm Va_deg Pd Qd Pg Qg Gs Bs Vmin Vmax Qmin Qmax
+# Lossless line: X=0.1 pu, load=0.5+j0.2 pu on 100 MVA base.
+BASEMVA 100
+BUS 1 3 1.0 0 0 0 0 0 0 0 0.9 1.1 -999 999
+BUS 2 1 1.0 0 50 20 0 0 0 0 0.9 1.1 -999 999
+BRANCH 1 2 0 0.1 0 1 0 0 1
